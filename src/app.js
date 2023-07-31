@@ -1,1 +1,1 @@
-console.log("App version 4");
+console.log("App version 6");

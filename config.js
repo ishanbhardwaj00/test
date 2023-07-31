@@ -1,1 +1,1 @@
-console.log("Config Version 4");
+console.log("Config Version 6");
